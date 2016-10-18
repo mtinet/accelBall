@@ -19,7 +19,7 @@ function setup() {
 }
 
 function draw() {
-    background(50, 100, 200);
+    background(50);
     ballMove();
     ellipse(x, y, 30, 30);
 }
